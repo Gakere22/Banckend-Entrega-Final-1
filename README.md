@@ -17,8 +17,8 @@ Gracias por acompañarme en  este proyecto.
 ![Node.js](https://img.shields.io/badge/logo-node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/logo-express-blue?logo=express)
 ![Handlebars](https://img.shields.io/badge/logo-handlebars-orange?logo=handlebars)
-![WebSockets](https://img.shields.io/badge/logo-WebSockets-orange?logo=webSockets)
-![MongoDB](https://img.shields.io/badge/logo-MongoDB-orange?logo=MongoDB)
+![WebSockets](https://img.shields.io/badge/logo-WebSockets-blue?logo=webSockets)
+![MongoDB](https://img.shields.io/badge/logo-MongoDB-green?logo=MongoDB)
 
 ## Demo
 [Demo-Products](https://youtu.be/33WWGJAHgf8 " Demo Products ")
